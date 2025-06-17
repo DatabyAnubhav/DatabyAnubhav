@@ -1,16 +1,14 @@
-## Hi there 👋
+## About me 
 
-<!--
-**DatabyAnubhav/DatabyAnubhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Anubhav, an MBA graduate from PIBM, Pune with 1.3 years of banking experience. I’m passionate about digging into data to uncover trends, build dashboards, and drive business decisions. My toolkit includes:
 
-Here are some ideas to get you started:
+- **Languages & Libraries:** Python (pandas, NumPy), SQL  
+- **Visualization & BI:** Tableau, Power BI, advanced Excel  
+- **Core Strengths:** Data cleaning, statistical analysis, dashboard design, and storytelling with data  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On this GitHub, you’ll find:
+- 📊 Interactive dashboards and reports  
+- 📈 Exploratory analyses and case studies  
+
+
+ 
