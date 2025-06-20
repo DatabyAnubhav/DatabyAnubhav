@@ -12,5 +12,7 @@ On this GitHub, you’ll find:
 
 https://www.linkedin.com/in/anubhav-gupta-74a597216
 
+Certifications:https://drive.google.com/file/d/1BEAz8qswesy-sARenNbVvtw2y8aDPM-F/view?usp=drivesdk
+
 
  
